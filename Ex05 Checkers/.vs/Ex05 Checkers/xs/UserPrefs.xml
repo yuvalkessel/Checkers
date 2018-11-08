@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{16B55098-5982-4406-8F1A-B9418E46E148}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex05.CheckersUI/Program.cs">
+    <Files>
+      <File FileName="Ex05.CheckersUI/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ex05.CheckersUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
